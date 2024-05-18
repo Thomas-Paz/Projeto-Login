@@ -138,19 +138,7 @@ Big Screen: above 1200
     div > form  {
         margin-top: 50px;
     }
-    div.campo > input {
-        font-size: 1em;
-        width: calc(100% - 44px);
-        height: 95%;
-        border: none;
-        border-radius: 8px;
-        background-color:rgb(255, 255, 255);
-        color: black;
-        
-        transform: translatey(-7px);
-
-        
-    }
+    
     #form > p {
         text-align: center;
     }
