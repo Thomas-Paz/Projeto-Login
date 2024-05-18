@@ -141,12 +141,12 @@ Big Screen: above 1200
     div.campo > input {
         font-size: 1em;
         width: calc(100% - 44px);
-        transform: translatey(-7px);
         height: 95%;
         border: none;
         border-radius: 8px;
         background-color:rgb(255, 255, 255);
         color: black;
+        transform: translatey(-7px);
         
     }
     #form > p {
