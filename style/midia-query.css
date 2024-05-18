@@ -146,7 +146,9 @@ Big Screen: above 1200
         border-radius: 8px;
         background-color:rgb(255, 255, 255);
         color: black;
+        
         transform: translatey(-7px);
+
         
     }
     #form > p {
