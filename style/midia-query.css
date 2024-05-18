@@ -49,6 +49,9 @@ Big Screen: above 1200
     div > form  {
         margin-top: 50px;
     }
+    #form > p {
+        text-align: center;
+    }
 }
 @media screen and (min-width: 992px) and (max-width: 1200px){
     body {
@@ -87,7 +90,12 @@ Big Screen: above 1200
     div > form  {
         margin-top: 50px;
     }
+    #form > p {
+        text-align: center;
+    }
 }
+    
+
 @media screen and (min-width: 1200px){
     
     body {
@@ -137,8 +145,12 @@ Big Screen: above 1200
         height: 95%;
         border: none;
         border-radius: 8px;
-        background-color:rgb(114, 71, 16);
+        background-color:rgb(255, 255, 255);
         color: black;
         
     }
+    #form > p {
+        text-align: center;
+    }
 }
+
