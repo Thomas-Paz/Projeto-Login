@@ -134,7 +134,7 @@ div.campo > i {
 div.campo > input {
     font-size: 1em;
     width: calc(100% - 44px);
-    height: 100%;
+    height: 95%;
     border: none;
     border-radius: 8px;
     background-color:rgb(114, 71, 16);
