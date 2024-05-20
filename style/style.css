@@ -115,7 +115,7 @@ form > a.botao:hover {
 }
 
 form > div.campo {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(104, 78, 78);
     display: block;
     width: 100%;
     height: 50px;
@@ -143,15 +143,17 @@ div.campo > input {
     height: 95%;
     border: none;
     border-radius: 8px;
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(104, 78, 78);
     color: black;
-    transform: translatey(-7px);
     outline: none;
+
+    
+    transform: translatey(-7px);
     
 }
 
 div.campo >input:focus-within {
-    background-color: white;
+    background-color: rgb (104, 78, 78);
     border: none;
 }
 form > a.botao {
